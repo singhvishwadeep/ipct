@@ -12,7 +12,7 @@
 
 const char * commands[] = {"info","hello","ls","bye","q","quit","exit","show",\
 							"help","fork","socket","shared_mem","pipe","semaphore",\
-							"thread","fifo","about"};
+							"thread","fifo","about","show"};
 
 
 void consideredcommands () {
